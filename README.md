@@ -8,7 +8,7 @@ cv en html
 <body>
     <header>
         <h1>Barre Jeremy</h1>
-    </header>=
+    </header>
     <main>
         <h3>Formations</h3>
         <ul>
